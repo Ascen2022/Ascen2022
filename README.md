@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ascen2022
 - 👀 I’m interested in AI and machine code
-- 🌱 I’m currently learning Java, HTML/CSS, Python, SQL, Computer orginazation, C++
+- 🌱 I’m currently learning Java, HTML/CSS, Python, SQL, Computer orginazation, C++, JavaScript
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me E-mail: mtsbreeding0818v.2@gmail.com
 
